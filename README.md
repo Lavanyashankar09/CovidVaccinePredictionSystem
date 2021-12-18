@@ -1,6 +1,6 @@
 # CovidVaccinePredictionSystem
 
-Built with python, numpy, matplotlib
+Built with python, numpy, matplotlib, statsmodels, skelarn, pandas, os
 
 Tools - Google Collab or Jupyter notebook
 
